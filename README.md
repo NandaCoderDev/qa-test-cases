@@ -1,75 +1,63 @@
-# 🧪 Projeto QA - Testes Manuais
+# 🧪 QA Test Cases Project
 
-## 📌 Descrição
-Este repositório contém casos de teste e relatórios de bugs desenvolvidos a partir de testes reais em um site de e-commerce.
+This repository contains manual test cases, bug reports, and evidence collected during functional testing of a real e-commerce website.
 
-O objetivo é simular atividades práticas da área de Quality Assurance (QA), incluindo validação de funcionalidades, identificação de falhas e documentação de testes.
+## 🎯 Objective
 
----
+The goal of this project is to demonstrate practical QA skills, including:
 
-## 🎯 Objetivo
-Praticar:
-- Criação de casos de teste
-- Execução de testes manuais
-- Identificação e registro de bugs
-- Organização de evidências
+- Manual testing
+- Test case design
+- Bug reporting
+- Evidence collection
+- Critical thinking in real scenarios
 
----
+## 🛠️ Tools Used
 
-## 🛠️ Ferramentas utilizadas
+- Excel (test case management)
+- Browser DevTools
+- Manual testing techniques
 
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+## 📂 Project Structure
 
----
+- `test-cases/` → Test cases documentation
+- `bug-report/` → Identified bugs and reports
+- `evidencias/` → Screenshots of test execution
 
-## 📂 Estrutura do projeto
+## 🔍 Test Scenarios
 
-- 📁 test-cases → Casos de teste em Excel  
-- 📁 bug-report / documentacao → Relatórios de bugs  
-- 📁 evidencias → Capturas de tela dos testes realizados  
+Some of the scenarios tested include:
 
----
+- Login with empty fields
+- Invalid input validation
+- User interaction flows
+- Error handling
 
-## 🧪 Cenários testados
+## 🐞 Bug Reporting
 
-- Login com e-mail inválido  
-- Login com dados incorretos  
-- Validação de campos obrigatórios  
+Each bug includes:
 
----
+- Title
+- Description
+- Steps to reproduce
+- Expected result
+- Actual result
+- Evidence (screenshots)
 
-## 🐞 Bugs identificados
+## 🔐 Security Awareness
 
-### 1. Inconsistência nas mensagens de erro
-O sistema apresenta mensagens diferentes para cenários semelhantes, como e-mail inválido e credenciais incorretas.
+Although this is a QA project, it also reflects an interest in Information Security, including:
 
-**Severidade:** Média
+- Input validation testing
+- Identification of unexpected system behavior
+- Awareness of common vulnerabilities (OWASP Top 10)
 
----
+## 🚀 About Me
 
-### 2. Mensagem pouco clara em campo obrigatório
-O campo de e-mail não informa claramente que é obrigatório quando deixado em branco.
+I have a background in Front-end Development and currently focus on Quality Assurance (QA), developing practical skills in manual testing, bug reporting, and test documentation.
 
-**Severidade:** Baixa
-
----
-
-## 📸 Evidências
-
-As evidências dos testes podem ser encontradas na pasta:
-
-📁 `evidencias/`
+I am also building knowledge in Information Security, with a long-term goal of working in Blue Team.
 
 ---
 
-## 🚀 Status do projeto
-
-Concluído ✅
-
----
-
-## 👩‍💻 Autora
-
-Fernanda Marques  
-https://github.com/NandaCoderDev
+📌 This project is part of my learning journey in QA and Information Security.
